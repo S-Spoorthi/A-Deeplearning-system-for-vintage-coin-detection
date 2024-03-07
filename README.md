@@ -1,0 +1,2 @@
+# A-Deeplearning-system-for-vintage-coin-detection
+This project explores the application of deep learning techniques and models to identify vintage coins, specifically focusing on identifying unique and valuable coins. Several of the known works to date are solely based on coin value detection, not precisely adhering to this concept. But these works form the basis for my project to explore further.
